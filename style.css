@@ -632,6 +632,7 @@ backFace
 }
 
 .breaking_news p {
+    text-align: center;
     font-size: 36px;
     color: #4E4E4E;
 }
