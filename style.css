@@ -636,6 +636,10 @@ backFace
     font-size: 36px;
     color: #4E4E4E;
 }
+.breaking_news {
+    padding-top: 82px;
+}
+
 
 .breaking_news h4 {
     text-align: center;
